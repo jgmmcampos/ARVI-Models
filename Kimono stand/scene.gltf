@@ -1,0 +1,417 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65534,
+      "max": [
+        1.9356613159179688,
+        0.15384818613529205,
+        2.1502437591552734
+      ],
+      "min": [
+        -1.9356544017791748,
+        -0.3872482478618622,
+        -2.3057239055633545
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786408,
+      "componentType": 5126,
+      "count": 65534,
+      "max": [
+        0.9999979138374329,
+        0.9999970197677612,
+        0.999902606010437
+      ],
+      "min": [
+        -0.9999983906745911,
+        -0.9999986290931702,
+        -0.9998343586921692
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 67446,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572816,
+      "componentType": 5126,
+      "count": 65533,
+      "max": [
+        1.9349983930587769,
+        0.15384818613529205,
+        2.1500000953674316
+      ],
+      "min": [
+        -1.9356544017791748,
+        -0.3872482478618622,
+        -2.3038015365600586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359212,
+      "componentType": 5126,
+      "count": 65533,
+      "max": [
+        0.9999992847442627,
+        0.9999997615814209,
+        0.9996234178543091
+      ],
+      "min": [
+        -0.9999974370002747,
+        -0.999995768070221,
+        -0.9998418688774109
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 269784,
+      "componentType": 5125,
+      "count": 72651,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145608,
+      "componentType": 5126,
+      "count": 34891,
+      "max": [
+        1.9356613159179688,
+        0.15384818613529205,
+        2.1502437591552734
+      ],
+      "min": [
+        -1.9356544017791748,
+        -0.3227875232696533,
+        -2.3057241439819336
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3564300,
+      "componentType": 5126,
+      "count": 34891,
+      "max": [
+        0.9999929666519165,
+        0.9999740123748779,
+        0.999901294708252
+      ],
+      "min": [
+        -0.9999891519546509,
+        -0.9999783635139465,
+        -0.9996204376220703
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 560388,
+      "componentType": 5125,
+      "count": 52335,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3982992,
+      "componentType": 5126,
+      "count": 36782,
+      "max": [
+        3.1563937664031982,
+        0.7903925180435181,
+        2.3740720748901367
+      ],
+      "min": [
+        -3.1563937664031982,
+        -0.7903925180435181,
+        -3.176865577697754
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4424376,
+      "componentType": 5126,
+      "count": 36782,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 769728,
+      "componentType": 5125,
+      "count": 106260,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Tom Johnson (https://sketchfab.com/Brigyon)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/kimono-stand-f676081ce3a44b42b7dd7cffce96bc66",
+      "title": "Kimono Stand"
+    },
+    "generator": "Sketchfab-11.60.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1194768,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4865760,
+      "byteOffset": 1194768,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6060528,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.008",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.31549460524476564,
+          0.31549460524476564,
+          0.31549460524476564,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8552747026
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.009",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.13355855088421073,
+          0.060727771698384406,
+          0.010345517223825089,
+          1.0
+        ],
+        "roughnessFactor": 0.2716919541906777
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "garment2_Material.008_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "garment2_Material.008_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "garment2_Material.008_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "PM3D_Cube3D1_Material.009_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "a6e7dcb209564efaa757db7a2c9c8f8c.fbx"
+    },
+    {
+      "children": [
+        3,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "garment2"
+    },
+    {
+      "mesh": 0,
+      "name": "garment2_Material.008_0"
+    },
+    {
+      "mesh": 1,
+      "name": "garment2_Material.008_0"
+    },
+    {
+      "mesh": 2,
+      "name": "garment2_Material.008_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "PM3D_Cube3D1"
+    },
+    {
+      "mesh": 3,
+      "name": "PM3D_Cube3D1_Material.009_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
